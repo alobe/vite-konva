@@ -1,0 +1,28 @@
+{
+  "name": "topovas",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "dependencies": {
+    "konva": "^7.2.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-konva": "^17.0.0-0",
+    "tailwindcss": "^2.0.1",
+    "valtio": "^0.4.5"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.14",
+    "typescript": "^4.1.2",
+    "vite": "^1.0.0-rc.13",
+    "vite-plugin-react": "^4.0.0"
+  },
+  "resolutions": {
+    "postcss": "8.1.14"
+  }
+}
