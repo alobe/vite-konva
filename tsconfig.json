@@ -1,15 +1,14 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "lib": ["DOM", "DOM.Iterable", "ESNext", "ES2015"],
     "types": [],
     "allowJs": false,
     "skipLibCheck": false,
     "esModuleInterop": false,
     "allowSyntheticDefaultImports": true,
-    "strict": true,
     "forceConsistentCasingInFileNames": true,
-    "module": "ESNext",
+    "module": "commonjs",
     "moduleResolution": "Node",
     "resolveJsonModule": true,
     "isolatedModules": true,
